@@ -75,7 +75,7 @@ que tem seu charme para alguns, e para outros "alguns" não kkkkk.
 - ***Provas:*** Todas as provas antigas, obtidas no Farol do PET Computação.
 - ***Exercícios_P.DR.Luiz:*** Exercícios do docente Luis Allan Kunzle, obtidos no PET Computação.
 
-## ✏️​📘​✏️Complementos da Matemática (CM304):
+## ✏️​📙​✏️Complementos da Matemática (CM304):
 E como primeira matéria que o nosso querido e amado departamento de matemática da UFPR tem a oferecer é: Complementos da Matemática.
 
 Essa matéria infelizmente não foi a mais querida pelos veteranos de matrícula (ou também chamada de GRR) 2024. Mudou-se o professor dessa matéria(o qual foi deverás elogiado pelos corredores do DINF pelos veteranos) bem na vez deles, o que ocorreu de ser a primeira vez do professor da galera de GRR 2024 dando a matéria. No final, ocorreu de menos de 30% da turma ser aprovada direta, o que acabou em um final feliz pois a prova final veio fácil e a maioria foi aprovada​ 🙏​.
@@ -87,9 +87,16 @@ A matéria consiste basicamente de lógica matemática, em que são dadas alguma
 - ***Bibliografia.pdf:*** Consiste na bibliografia dessa matéria, conseguido no site do Departamento de Matemática da UFPR.
 - ***Provas:*** Todas as provas antigas contidas no Farol do PET Computação.
 
-## ✏️​📘​✏️Pré-Cálculo (CM310):
+## ✏️​​📔​✏️Pré-Cálculo (CM310):
+Vocês não acharam mesmo que o Departamento de Matemática da UFPR iria vir somente com uma matéria para os nossos futuros computeiros né? Pois então, que bom que não acharam, porque a matéria de pré-cálculo vem para fechar a grade horária do primeiro semestre, ou talvez não...​🤨​🤐​🤔​🫣​🫢​🤭​🤫​.
 
+***Ué, como assim "talvez não"?*** Então, essa matéria é basicamente a matemática usada para vocês entrarem no curso, ou seja, a matemática do ensino médio. Essa matéria foi criada porque a média de reprovação em Cálculo 1 era (e ainda é) muito alta em toda a universidade, e ela serve basicamente para você melhorar e aprender(quem ainda não sabe) a matemática básica e um pouco das noções de funções. Eu falei que talvez vocês não passem por ela porque na semana dos calouros darão uma prova (OPCIONAL DE SER FEITA) para as pessoas que desejarem pular essa matéria, as quais precisam acertar mais de 50% dessa prova para passar. Caso ocorra isso, vocês terão a opção de ir direto para a matéria de Cálculo 1 no pŕimeiro semestre de vocês. 
 
+Calourada, **recadinho sincero do autor desse repositório:** Não se sinta incomodado ou até um merd@ por ter que fazer essa matéria, se você realmente precisa é só uma fase do aprendizado. Não se compare com os outros calouros ou até com os veteranos que não estão fazendo/não precisaram fazê-la. Cada um tem o seu momento de aprender, nem todos tiveram as mesmas oportunidades, nem todos têm as mesmas habilidades, pode sim ter dificuldade em matemática e estar aqui. Esse é um curso não só para apaixonados em matemática, mas também para apaixonados em programação (mesmo essas duas área se atritando diversas vezes). Enfim, vocês que terão que fazer essa matéria no primeiro semestre, fiquem tranquilos, não irão atrasar de forma alguma (pois está na grade para realmente ser feita no primeiro semestre) e irão se aperfeiçoar para o Cálculo 1. Se precisarem de qualquer tipo de ajuda nessa matéria, o autor que vos fala deu algumas aulas dela para a galera que tava tendo em 2024 e o ajudaria com o maior prazer do mundo, consiga meu número com algum outro veterano(ou se estiver no grupo dos calouros do Whats eu estou lá também) ou me ache pelo Campus ​❤️​. 
+
+### Materiais de ajuda que estarão na pasta 📁​CM310📁​:
+- ***Bibliografia.pdf:*** Consiste na bibliografia dessa matéria, conseguido no site do Departamento de Matemática da UFPR.
+- ***Livro_Pré-Cálculo:*** Contém o livro que foi usado pelo professor que deu aula para BCC No primeiro semestre de 2024.
 
 
 
