@@ -106,6 +106,12 @@ Calourada, **recadinho sincero do autor desse repositório:** Não se sinta inco
 
 
 
+### Materiais de ajuda que estarão na pasta 📁​CM311📁​:
+
+- ***Exercícios_P.DR.Roberto:*** Exercícios do docente Roberto Ribeiro.
+- ***James_Stewart.pdf:*** O livro de um dos autores mais conhecidos e mais usados da matéria.
+- ***Provas:*** Algumas provas reunidas do Farol do PET Computação.
+
 
 
 
