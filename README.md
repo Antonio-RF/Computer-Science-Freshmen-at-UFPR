@@ -20,10 +20,7 @@ Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas 
 ![](Images/grade-bcc.png)
 
 ## ✏️​📕​✏️Algoritmos e ​Estruturas de Dados 1 (CI1055):
-Essa matéria tem como objetivo principal ensinar vocês a programar seus primeiros códigos (mesmo os calourinhos que já programaram antes hehehe). Ela ensinará vocês os conceitos básicos
-de programação, é deverás importante para todos. Ademais, mesmo tendo alguns calouros que já têm uma noção de programação (como entradas, saídas e loops), essa matéria foi projetada para
-todos os tipos de alunos, tendo como linguagem de programação: ***Pascal***, uma linguagem antiga que não é tão usada hoje em dia, porém que ajuda os alunos a aprenderem de uma forma mais didática
-sobre programação.
+Essa matéria tem como objetivo principal ensinar vocês a programar seus primeiros códigos (mesmo os calourinhos que já programaram antes, hehehe). Ela ensinará a vocês os conceitos básicos de programação e é deveras importante para todos. Ademais, mesmo havendo alguns calouros que já têm uma noção de programação (como entradas, saídas e loops), essa matéria foi projetada para todos os tipos de alunos, tendo como linguagem de programação Pascal, uma linguagem antiga que não é tão usada hoje em dia, mas que ajuda os alunos a aprenderem de uma forma mais didática sobre programação.
 
 A avaliação dessa matéria é dada através de 3 provas: P1, P2 e P3. Cada uma delas tem peso diferente, sendo a P1 com peso 1, a P2 com peso 2 e a P3 com peso 3.
 
@@ -44,14 +41,9 @@ Vishhh, essa matéria é sem dúvidas a mais polêmica do primeiro semestre kkkk
 Então, o objetivo principal de ICC é a melhora/construção dos pensamentos computacionais dos alunos. Ela é dividida nas chamadas "fases" e elas são apresentadas a cada aula. Vou falar um pouco mais sobre
 como essa matéria funciona: 
 
-Os professores primeiramente apresentarão um mundo que eles criaram (como se fosse um RPG). Com isso, eles lhe darão um problema que aconteceu nesse mundo fictício e pedirão a sua ajuda para resolvê-lo,
-detalhe: esse problema é chamado de 'fase', e o número dessa fase corresponde ao número da aula, então a primeira aula será fase 1, segunda aula será a fase 2 e assim por diante. Esses problemas são basicamente
-de lógica, e eles querem observar os diferentes tipos de respostas que vocês apresentarão. Essas fases (e as suas respectivas histórias) são postadas na plataforma ***Moodle*** e geralmente vocês têm 1 semana para
-respondê-las. Cada aula começa apresentando a resposta da fase da última aula com uma discussão dos alunos com os professores entre as suas diferentes respostas, terminando-se a aula com a apresentação da próxima 
-fase.
+Os professores, primeiramente, apresentarão um mundo que eles criaram (como se fosse um RPG). Com isso, eles lhe darão um problema que ocorreu nesse mundo fictício e pedirão sua ajuda para resolvê-lo. Detalhe: esse problema é chamado de fase, e o número da fase corresponde ao número da aula. Assim, a primeira aula será a fase 1, a segunda aula será a fase 2 e assim por diante. Esses problemas são basicamente de lógica, e os professores querem observar os diferentes tipos de respostas que vocês apresentarão. As fases (e suas respectivas histórias) são postadas na plataforma Moodle, e, geralmente, vocês têm uma semana para respondê-las. Cada aula começa com a apresentação da resposta da fase da última aula, seguida de uma discussão entre alunos e professores sobre as diferentes soluções. A aula termina com a apresentação da 
 
-***Por quê essa matéria é tão polêmica?*** Então, é uma matéria muito criticada pelos veteranos, sejam críticas boas ou ruins. Dessa forma, por exemplo, acontece de algumas fases não terem uma resposta certa ou essa resposta não 
-ser parecida com a do professor, casos esses que geram um pequeno alvoroço entre os alunos, que fazem a seguinte pergunta: "Por qual motivo estou aprendendo essa matéria? Isso não faz sentido algum, é inútil!". Em outro plano, acontece também de alguns alunos gostarem muito da matéria e acharem ela super interessante (como foi dito no Café do PET de 2024 por alguns alunos para os professores que estavam apresentando).
+***Por quê essa matéria é tão polêmica?*** Essa é uma matéria muito criticada pelos veteranos, tanto de forma positiva quanto negativa. Por exemplo, em algumas fases, pode não haver uma única resposta correta, ou a resposta encontrada pelos alunos pode ser diferente da do professor. Essas situações costumam gerar um pequeno alvoroço entre os alunos, que questionam: "Por que estou aprendendo essa matéria? Isso não faz sentido algum, é inútil!". Por outro lado, há também alunos que gostam muito da disciplina e a consideram super interessante, como foi mencionado no Café do PET de 2024 por alguns estudantes aos professores que estavam apresentando.
 
 Por favor, pessoal, não condenem o mensageiro. As humildes opiniões desse autor não estão sendo refletidas aqui (até porque se estivessem eu deixaria bem explícito kkkkk), somente estou repassando o que muito foi
 dito e ouvido durante o ano de 2024! 🥰​😘​
@@ -66,7 +58,7 @@ Como já dito brevemente anteriormente, essa matéria irá introduzir as primeir
 hexadecimal e etc) até fazer sua própria Unidade Lógica Aritmética (dependendo do professor), essa matéria é ideal para os calouros que decidirem seguir para essa área da computação: ***Hardware***.
 
 É uma matéria que alguns se dão muito bem, alguns se dão muito mal, alguns começam a amar certos professores da matéria, alguns começam a odiar certos professores da matéria, alguns já se veem entrando para o HIPES
-(High Performance and Efficient Systems), que é o departamento de Hardware do Departamento de Informática, alguns já se veem passando muito longe do HIPES (High Performance and Efficient Systems). Enfim, uma matéria
+(High Performance and Efficient Systems), que é o departamento de Hardware do DINF, alguns já se veem passando muito longe do HIPES (High Performance and Efficient Systems). Enfim, uma matéria
 que tem seu charme para alguns, e para outros "alguns" não kkkkk.
 
 ### Materiais de ajuda que estarão na pasta 📁​CI1068📁​:
@@ -78,9 +70,9 @@ que tem seu charme para alguns, e para outros "alguns" não kkkkk.
 - ***Exercícios_P.DR.Luiz:*** Exercícios do docente Luis Allan Kunzle, obtidos no PET Computação.
 
 ## ✏️​📙​✏️Complementos da Matemática (CM304):
-E como primeira matéria que o nosso querido e amado departamento de matemática da UFPR tem a oferecer é: Complementos da Matemática.
+E como primeira matéria que o nosso querido e amado Departamento de Matemática da UFPR tem a oferecer é: Complementos da Matemática.
 
-Essa matéria infelizmente não foi a mais querida pelos veteranos de matrícula (ou também chamada de GRR) 2024. Mudou-se o professor dessa matéria(o qual foi deverás elogiado pelos corredores do DINF pelos veteranos) bem na vez deles, o que ocorreu de ser a primeira vez do professor da galera de GRR 2024 dando a matéria. No final, ocorreu de menos de 30% da turma ser aprovada direta, o que acabou em um final feliz pois a prova final veio fácil e a maioria foi aprovada​ 🙏​.
+Infelizmente, essa matéria não foi a mais querida pelos veteranos da turma de matrícula (também chamada de GRR) 2024. O professor da disciplina foi substituído justamente na vez deles, e o antigo docente, muito elogiado pelos corredores do DINF pelos veteranos, deu lugar a um novo professor que estava ministrando a matéria pela primeira vez. No final, menos de 30% da turma foi aprovada diretamente, mas o desfecho acabou sendo positivo, pois a prova final veio fácil e a maioria conseguiu a aprovação 🙏​.
 
 A matéria consiste basicamente de lógica matemática, em que são dadas algumas preposições e você tem que provar a veracidade delas a partir dos artifícios matemáticos que são aprendidos ao longo da matéria. E você que acha que a matéria é fácil apenas porque têm "matemática" no nome e você tem uma boa base e bla bla bla, não é bem assim não. Você realmente tem que estudar para passar nessa matéria, porque apesar de seu nome ser agradável para muitos, a maioria dos conteúdos aprendidos nela não são vistos no seu ensino médio (a não ser que você tenha vindo do EMFPUFPR(Ensino Médio para os Futuros Programadores da Universidade Federal do Paraná)).
 
@@ -102,8 +94,11 @@ Calourada, **recadinho sincero do autor desse repositório:** Não se sinta inco
 - ***Provas:*** Contém as provas do ano de 2024, infelizmente não achei mais provas, mas como é conteúdo do ensino médio não é muito díficil achar conteúdos na internet sobre.
 
 ## ✏️​📗​​✏️Cálculo 1 (CM311):
+Aos corajosos que irão enfrentar essa matéria já no primeiro período ou que irão enfretá-la no segundo período, aqui está!!!
 
+Então, muitos de vocês já devem ter escutado que a matéria de Cálculo 1 é uma matéria difícil e que tem uma média de reprovação muito grande. Realmente, todas essas histórias são verdade. Embora a média de aprovação de BCC ser BEM alta em relação aos outros cursos da UFPR, há sim ainda muitas reprovações nessa matéria. Com isso, novamente, não ache que por você ter uma base boa em matemática você conseguirá passar tão tranquilamente assim, de fato isso irá ajudar MUITO durante a matéria, mas mesmo assim você precisará estudar.
 
+A dificuldade da matéria diversas vezes depende também do professor do Departamento de Matemática que vocês pegarem, existem professores que são uns pais: dão a matéria perfeitamente, a prova é geralmente em um nível fácil, disponibiliza tudo quanto é material para você estudar e etc, como também existem professores que são exatamente o contrário kkkkkk.
 
 
 ### Materiais de ajuda que estarão na pasta 📁​CM311📁​:
@@ -112,6 +107,8 @@ Calourada, **recadinho sincero do autor desse repositório:** Não se sinta inco
 - ***James_Stewart.pdf:*** O livro de um dos autores mais conhecidos e mais usados da matéria.
 - ***Provas:*** Algumas provas reunidas do Farol do PET Computação.
 
+## 💥​Recado final:💫​
+Calourinhos, estamos falando de um dos cursos com uma das maiores taxas de evasão de toda a universidade. Não é nada fácil, vocês passaram por um vestibular super difícil e concorrido que exigiu muito de vocês. Por estarem aqui, já são muito bons. Porém, vocês precisam ter paciência: nem tudo vem já de cara, motivação: ache áreas da computação que você se interesse muito, e muita dedicação: para conseguir passar nas matérias, você precisará estudar muito. Esse primeiro semestre talvez não seja o ideal, pois muitas dessas matérias não são tão atraentes, mas tenham calma que vocês irão sim achar áreas e lugares na computação que irão amar. Se precisarem de ajuda em qualquer matéria ou em qualquer algo relacionado à faculdade, o autor desse repositório pode lhe ajudar com o maior prazer do mundo. Curtam a faculdade que ela passa voando, alunos de Ciência da Computação! 🚀​
 
 
 
