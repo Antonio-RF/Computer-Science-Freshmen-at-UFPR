@@ -110,6 +110,8 @@ A dificuldade da matéria diversas vezes depende também do professor do Departa
 ## 💥​Recado final:💫​
 Calourinhos, estamos falando de um dos cursos com uma das maiores taxas de evasão de toda a universidade. Não é nada fácil, vocês passaram por um vestibular super difícil e concorrido que exigiu muito de vocês. Por estarem aqui, já são muito bons. Porém, vocês precisam ter paciência: nem tudo vem já de cara, motivação: ache áreas da computação que você se interesse muito, e muita dedicação: para conseguir passar nas matérias, você precisará estudar muito. Esse primeiro semestre talvez não seja o ideal, pois muitas dessas matérias não são tão atraentes, mas tenham calma que vocês irão sim achar áreas e lugares na computação que irão amar. Se precisarem de ajuda em qualquer matéria ou em qualquer algo relacionado à faculdade, o autor desse repositório pode lhe ajudar com o maior prazer do mundo. Curtam a faculdade que ela passa voando, alunos de Ciência da Computação! 🚀​
 
+## ​⭐​STAR​⭐​ :
+Se você gostou desse conteúdo e/ou quer salvar ele, você pode clicar no canto superior direito em "​⭐​star". Essa contribuição ajuda tanto o autor desse repositório quanto você mesmo, que terá em seu perfil esse repositório apenas indo para o campo "⭐​stars". Obrigado, espero que realmente goste! - Antonio da Ressurreição Filho.
 
 
 
