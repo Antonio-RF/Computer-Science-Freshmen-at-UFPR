@@ -3,17 +3,19 @@
 ### 🚨​ Attention: In this repository, I will write only in PORTUGUESE, as it is focused on the Computer Science freshmen at Federal University of Paraná(UFPR).
 
 ---
+## ​⭐​STAR​⭐​ :
+Se você gostou desse conteúdo e/ou quer salvar ele, você pode clicar no canto superior direito em "​⭐​star". Essa contribuição ajuda tanto o autor desse repositório quanto você mesmo, que terá em seu perfil esse repositório apenas indo para o campo "⭐​stars". Obrigado, espero que realmente goste! - Antonio da Ressurreição Filho.
 
 ## ✨​💻​✨​Objetivo:
 Esse projeto tem como objetivo ajudar os calouros do curso de Ciência da Computação da Universidade Federal do Paraná (UFPR) a se adequarem mais às matérias que serão
-dadas. Com isso, nesse repositório, terão conteúdos, materiais e quaisquer outras informações que podem ajudar vocês, calouros, a ter uma vidinha mais fácil em uma das 10
+dadas nesse primeiro período. Com isso, nesse repositório, terão conteúdos, materiais e quaisquer outras informações que podem ajudar vocês, calouros, a ter uma vidinha mais fácil em uma das 10
 melhores universidades do Brasil 🇧🇷​!!!. 
 
 ❗​IMPORTANTE: Esse repositório pode ser modificado ao longo do tempo, caso haja algum veterano que queira mandar informações e dicas extras a respeito das matérias ministradas
 no primeiro período de graduação de BCC.
 
 ## ​⏰​​🗓️​Grade Curricular:
-Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas nas matérias do primeiro período do curso, ou seja, na primeira coluna, a qual contêm 10 matérias!
+Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas nas matérias do primeiro período do curso, ou seja, na primeira coluna, a qual contêm 5 matérias!
 
 ![](Images/grade-bcc.png)
 
@@ -97,7 +99,9 @@ Calourada, **recadinho sincero do autor desse repositório:** Não se sinta inco
 ### Materiais de ajuda que estarão na pasta 📁​CM310📁​:
 - ***Bibliografia.pdf:*** Consiste na bibliografia dessa matéria, conseguido no site do Departamento de Matemática da UFPR.
 - ***Livro_Pré-Cálculo:*** Contém o livro que foi usado pelo professor que deu aula para BCC No primeiro semestre de 2024.
+- ***Provas:*** Contém as provas do ano de 2024, infelizmente não achei mais provas, mas como é conteúdo do ensino médio não é muito díficil achar conteúdos na internet sobre.
 
+## ✏️​📗​​✏️Cálculo 1 (CM311):
 
 
 
