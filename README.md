@@ -75,9 +75,19 @@ que tem seu charme para alguns, e para outros "alguns" não kkkkk.
 - ***Provas:*** Todas as provas antigas, obtidas no Farol do PET Computação.
 - ***Exercícios_P.DR.Luiz:*** Exercícios do docente Luis Allan Kunzle, obtidos no PET Computação.
 
+## ✏️​📘​✏️Complementos da Matemática (CM304):
+E como primeira matéria que o nosso querido e amado departamento de matemática da UFPR tem a oferecer é: Complementos da Matemática.
 
+Essa matéria infelizmente não foi a mais querida pelos veteranos de matrícula (ou também chamada de GRR) 2024. Mudou-se o professor dessa matéria(o qual foi deverás elogiado pelos corredores do DINF pelos veteranos) bem na vez deles, o que ocorreu de ser a primeira vez do professor da galera de GRR 2024 dando a matéria. No final, ocorreu de menos de 30% da turma ser aprovada direta, o que acabou em um final feliz pois a prova final veio fácil e a maioria foi aprovada​ 🙏​.
 
+A matéria consiste basicamente de lógica matemática, em que são dadas algumas preposições e você tem que provar a veracidade delas a partir dos artifícios matemáticos que são aprendidos ao longo da matéria. E você que acha que a matéria é fácil apenas porque têm "matemática" no nome e você tem uma boa base e bla bla bla, não é bem assim não. Você realmente tem que estudar para passar nessa matéria, porque apesar de seu nome ser agradável para muitos, a maioria dos conteúdos aprendidos nela não são vistos no seu ensino médio (a não ser que você tenha vindo do EMFPUFPR(Ensino Médio para os Futuros Programadores da Universidade Federal do Paraná)).
 
+### Materiais de ajuda que estarão na pasta 📁​CM304📁​:
+- ***Conteúdo.pdf:*** Consiste no conteúdo dado nessa matéria, conseguido no site do Departamento de Matemática da UFPR.
+- ***Bibliografia.pdf:*** Consiste na bibliografia dessa matéria, conseguido no site do Departamento de Matemática da UFPR.
+- ***Provas:*** Todas as provas antigas contidas no Farol do PET Computação.
+
+## ✏️​📘​✏️Pré-Cálculo (CM310):
 
 
 
