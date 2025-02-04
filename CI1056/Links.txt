@@ -1,0 +1,7 @@
+Links para a matéria de Algoritmos e Estruturas de Dados 2:
+
+- Site do docente Elias Procópio com listas de exercícios, conteúdo da matéria e bibliografia da matéria: https://www.inf.ufpr.br/elias/algoritmos/index.html
+
+- Site do docente Marcos Castilo: https://www.inf.ufpr.br/marcos/ci1056/
+
+- Site do docente David Menotti: https://www.inf.ufpr.br/menotti/ci1056-201/
