@@ -123,10 +123,9 @@ Quando à Assembly, também é muito importante praticar! Para isso, existe um e
 
 Para alguns, a matéria será extremamente fácil. Para outros, um pesadelo. A dica em geral é simples: foquem em fazer o trabalho final bem e, **sempre** que não entender alguma coisa na aula, procure ajuda! O trabalho costuma salvar bastante gente que não vai bem nas provas.
 
-Outros lugares com conteúdos e exemplos são: o [repositório do professor Daniel](https://github.com/dagoliveira/projetos) e o [repositório do monitor Gabriel](https://github.com/gboncoffee/ci1210). No repositório do Gabriel inclusive existe o trabalho que ele entregou na matéria, que pode ser útil para entender como fazer certas coisas.
+### Materiais de ajuda que estarão na pasta 📁CI1210📁​:
 
-### Materiais de ajuda que estarão na pasta 📁CM303📁​:
-
+- ***Links.txt***: links para repositórios com conteúdo e videoaulas da matéria.
 - ***Provas antigas***: Há provas antigas de CMOS do professor Daniel Oliveira. Ele não costuma mudar muito as avaliações, para a sorte de vocês.
 - ***Capítulo de CMOS do Hexel***: Um capítulo de livro que o professor Hexel escreveu sobre CMOS.
 - ***Listas de exercícios***: Listas escritas por monitores, tanto de CMOS quanto Assembly. Quando um professor aplica prova de Assembly, os exercícios são no estilo da lista.
@@ -158,6 +157,28 @@ Nessa matéria, como já dito anteriormente, vocês usarão a linguagem C (que s
 - ***Links.txt:*** Links importantes, como do site do docente Elias Procópio com listas de exercícios, conteúdo da matéria e bibliografia da matéria, do site do docente Marcos Castilo e do site do docente David Menotti.
 - ***Exercícios_ALG2.pdf e Exercícios-2_ALG2.pdf:*** Lista de exercícios de ALG2.
 - ***Provas:*** Provas antigas de ALG2, obtidas no Farol do PET Computação.
+
+## ✏️​📕​✏️ Programação 1 (CI1001)
+Enquanto as matérias de Algoritmos e Estruturas de Dados te ensinam (pasmem) algoritmos e estruturas de dados, as matérias de Programação te ensinam a coisa mais óbvia para qualquer cientista da computação: programação!
+
+Não cometam o erro de subestimar essa matéria! E da mesma maneira, não se preocupem caso reprovem nela. Cada um tem seu tempo e, em especial nessa disciplina, o aprendizado pleno é a coisa mais importante. Isso pois as técnicas de programação e os conceitos básicos aprendidos aqui são essenciais para todo o resto do curso.
+
+***Ah, não! DESSA VEZ É PASCAL DE NOVO NÉ??? 🤯​😵***
+
+Não! Dessa vez, a única escolha plausível para a matéria seria a velha e não tão boa assim linguagem C. Vocês entenderão em breve, mas essa linguagem é uma excelente plataforma de aprendizado para computação. Além disso, ela cria caráter. Se preparem para perder vários ponteiros e causar diversos *segmentation fault*.
+
+É definitivamente obrigatório gostar dessa matéria. Você pode achar a aplicação e avaliação ruim (muitos acham), mas essa é a disciplina que melhor define o curso. Programar é a atividade principal de um cientista da computação em qualquer parte da nossa área (na verdade, programar se tornou fundamental em quase todas as ciências hoje, para vocês verem como nós somos essenciais hehe 😅).
+
+De longe, o fato que torna essa matéria complicada é que só existe um jeito de aprender a programar, que é programando. Não se *ensina* alguém a programar, só se *ajuda* alguém a aprender a programar, pois essa é uma atividade que se faz sozinho. Então programem! Se possível, tentem inclusive programar coisas fora da matéria.
+
+Essa matéria também é a oportunidade de aprender a procurar e resolver os problemas em seus programas direito. Caso vocês consigam desenvolver essa habilidade aqui, o resto do curso será muito mais fácil, especialmente Programação 2. Não hesitem em pedir ajuda quanto a isso! Falem com seus veteranos para saber quais técnicas eles recomendam, e procurem saber mais sobre ferramentas que utilizamos para ajudar nisso, como o [valgrind](https://valgrind.org/) e o [GDB](https://sourceware.org/gdb/).
+
+### Materiais de ajuda que estarão na pasta 📁CI1001📁​:
+- ***Links.txt***: Links com materiais e repositórios de ex-alunos com soluções (não sejam espertinhos e simplesmente copiem o código deles: os professores vão perceber e, mais importante, vocês não aprenderão nada).
+- ***Apostilas***: Apostilas do PET e do próprio DINF sobre a linguagem C.
+- ***Livro de boas práticas***: Ensinando boas práticas de programação para facilitar a vida de vocês.
+- ***Slides de introdução à linguagem C***: Utilizados nas aulas iniciais dos professores Luís Bona e Marcos Castilho.
+- ***Apostila p2c***: Migrando da linguagem Pascal para C.
 
 
 ## 💥​Recado final:💫​
