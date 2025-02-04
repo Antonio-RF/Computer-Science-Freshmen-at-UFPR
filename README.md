@@ -15,7 +15,7 @@ melhores universidades do Brasil 🇧🇷​!!!.
 no primeiro e segundo períodos de graduação de BCC.
 
 ## ​⏰​​🗓️​Grade Curricular:
-Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas nas matérias do primeiro período do curso, ou seja, na primeira coluna, a qual contêm 5 matérias!
+Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas nas matérias do primeiro ano do curso, ou seja, nas duas primeiras colunas, as quais contêm 10 matérias!
 
 ![](Images/grade-bcc.png)
 
