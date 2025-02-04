@@ -12,12 +12,14 @@ dadas nesse primeiro período. Com isso, nesse repositório, terão conteúdos, 
 melhores universidades do Brasil 🇧🇷​!!!. 
 
 ❗​IMPORTANTE: Esse repositório pode ser modificado ao longo do tempo, caso haja algum veterano que queira mandar informações e dicas extras a respeito das matérias ministradas
-no primeiro período de graduação de BCC.
+no primeiro e segundo períodos de graduação de BCC.
 
 ## ​⏰​​🗓️​Grade Curricular:
 Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas nas matérias do primeiro período do curso, ou seja, na primeira coluna, a qual contêm 5 matérias!
 
 ![](Images/grade-bcc.png)
+
+# Matérias do Primeiro Período (e Cálculo 1)
 
 ## ✏️​📕​✏️Algoritmos e ​Estruturas de Dados 1 (CI1055):
 Essa matéria tem como objetivo principal ensinar vocês a programar seus primeiros códigos (mesmo os calourinhos que já programaram antes, hehehe). Ela ensinará a vocês os conceitos básicos de programação e é deveras importante para todos. Ademais, mesmo havendo alguns calouros que já têm uma noção de programação (como entradas, saídas e loops), essa matéria foi projetada para todos os tipos de alunos, tendo como linguagem de programação Pascal, uma linguagem antiga que não é tão usada hoje em dia, mas que ajuda os alunos a aprenderem de uma forma mais didática sobre programação.
@@ -106,6 +108,29 @@ A dificuldade da matéria diversas vezes depende também do professor do Departa
 - ***Exercícios_P.DR.Roberto:*** Exercícios do docente Roberto Ribeiro.
 - ***James_Stewart.pdf:*** O livro de um dos autores mais conhecidos e mais usados da matéria.
 - ***Provas:*** Algumas provas reunidas do Farol do PET Computação.
+
+
+# Matérias do Segundo Período
+
+## ✏️​📘​✏️ Projetos Digitais e Microprocessadores (CI1210):
+Agora não existe mais meio termo: ou você gosta ou não gosta das matérias de hardware.
+
+Depois de aprender o básico em Circuitos Digitais, agora chegou a hora de entender um pouco mais sobre como os circuitos em si funcionam com tecnologias modernas (CMOS), e como aplicar esse conhecimento para construir um computador simples. Sim, o trabalho final da matéria é construir a sua própria CPU no simulador.
+
+Além disso, nessa matéria começamos a aprender a "linguagem" de programação mais tenebrosa de todas: o temido *Assembly*. Diferente de Pascal e C, nessa linguagem o programador escreve cada instrução que o processador executa, sem construções abstratas como *for* e *if*. Programar nela é difícil para todos, mas será muito mais fácil ter uma nota boa caso vocês se dediquem a entender bem os conceitos básicos e só depois pensar em coisas mais complexas.
+
+Quando à Assembly, também é muito importante praticar! Para isso, existe um emulador de RISC-V e MIPS que vocês podem usar: o [egg](https://github.com/gboncoffee/egg).
+
+Para alguns, a matéria será extremamente fácil. Para outros, um pesadelo. A dica em geral é simples: foquem em fazer o trabalho final bem e, **sempre** que não entender alguma coisa na aula, procure ajuda! O trabalho costuma salvar bastante gente que não vai bem nas provas.
+
+Outros lugares com conteúdos e exemplos são: o [repositório do professor Daniel](https://github.com/dagoliveira/projetos) e o [repositório do monitor Gabriel](https://github.com/gboncoffee/ci1210). No repositório do Gabriel inclusive existe o trabalho que ele entregou na matéria, que pode ser útil para entender como fazer certas coisas.
+
+### Materiais de ajuda que estarão na pasta 📁CI1210📁​:
+
+- ***Provas antigas***: Há provas antigas de CMOS do professor Daniel Oliveira. Ele não costuma mudar muito as avaliações, para a sorte de vocês.
+- ***Capítulo de CMOS do Hexel***: Um capítulo de livro que o professor Hexel escreveu sobre CMOS.
+- ***Listas de exercícios***: Listas escritas por monitores, tanto de CMOS quanto Assembly. Quando um professor aplica prova de Assembly, os exercícios são no estilo da lista.
+
 
 ## 💥​Recado final:💫​
 Calourinhos, estamos falando de um dos cursos com uma das maiores taxas de evasão de toda a universidade. Não é nada fácil, vocês passaram por um vestibular super difícil e concorrido que exigiu muito de vocês. Por estarem aqui, já são muito bons. Porém, vocês precisam ter paciência: nem tudo vem já de cara, motivação: ache áreas da computação que você se interesse muito, e muita dedicação: para conseguir passar nas matérias, você precisará estudar muito. Esse primeiro semestre talvez não seja o ideal, pois muitas dessas matérias não são tão atraentes, mas tenham calma que vocês irão sim achar áreas e lugares na computação que irão amar. Se precisarem de ajuda em qualquer matéria ou em qualquer algo relacionado à faculdade, o autor desse repositório pode lhe ajudar com o maior prazer do mundo. Curtam a faculdade que ela passa voando, alunos de Ciência da Computação! 🚀​
