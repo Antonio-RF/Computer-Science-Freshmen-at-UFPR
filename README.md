@@ -138,6 +138,8 @@ Calourinhos, estamos falando de um dos cursos com uma das maiores taxas de evas�
 ## ​⭐​STAR​⭐​ :
 Se você gostou desse conteúdo e/ou quer salvar ele, você pode clicar no canto superior direito em "​⭐​star". Essa contribuição ajuda tanto o autor desse repositório quanto você mesmo, que terá em seu perfil esse repositório apenas indo para o campo "⭐​stars". Obrigado, espero que realmente goste! - Antonio da Ressurreição Filho.
 
+## Colaboradores: [gboncoffee](https://github.com/gboncoffee)
+
 
 
 
