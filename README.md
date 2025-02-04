@@ -145,6 +145,20 @@ Calourinhos, existem professores nessa universidade queridos pela maioria dos al
 - ***Guias:*** Simplesmente guia de cada aula do docente Saulo Pomponet Oliveira, com página do livro onde você pode encontrar os conteúdos, vídeos auxiliares E material complementar.
 - ***Livro_Anton_&_Rorres.pdf:*** PDF de um dos livros mais usados nessa matéria.
 
+## ✏️​📕​✏️Algoritmos e ​Estruturas de Dados 2 (CI1056):
+Ué, mais algoritmos e estruturas de dados? Ah, não! MAIS PASCAL??? 🤯​😵​
+
+Acalmem-se, calouros. (In)Felizmente, não teremos mais Pascal​🤧​, agora será na verdade C​ 💀​.
+
+Bem, dependendo do semestre que essa matéria é ministrada, ela é dada de diferentes formas, com diferentes conteúdos. Nesse viés, quando ela foi dada no segundo período de 2024, foram escolhidos 4 professores para ela, em que cada professor deu o que achava certo para seus alunos, ou seja, o conteúdo das 4 turmas eram DIFERENTES, mas PARECIDOS kkkkk.
+
+Nessa matéria, como já dito anteriormente, vocês usarão a linguagem C (que será ensinada a vocês ao mesmo tempo na matéria de Programação 1). Nela, mesmo os conteúdos sendo diferentes para cada turma, a ideia central não muda tanto: vocês aprenderão algoritmos de ordenação, algoritmos de pesquisa, recursão e um pouco mais. Se vocês desejarem ver algum projeto para já ter um ideia do que vão enfrentar, podem visitar um repositório desse autor que vos fala, o qual tem o trabalho dessa matéria: [Trabalho de ALG2](https://github.com/Rubiks05/Sorting-and-Searching-Algorithms).
+
+### Materiais de ajuda que estarão na pasta 📁CI1056📁​:
+- ***Links.txt:*** Links importantes, como do site do docente Elias Procópio com listas de exercícios, conteúdo da matéria e bibliografia da matéria, do site do docente Marcos Castilo e do site do docente David Menotti.
+- ***Exercícios_ALG2.pdf e Exercícios-2_ALG2.pdf:*** Lista de exercícios de ALG2.
+- ***Provas:*** Provas antigas de ALG2, obtidas no Farol do PET Computação.
+
 
 ## 💥​Recado final:💫​
 Calourinhos, estamos falando de um dos cursos com uma das maiores taxas de evasão de toda a universidade. Não é nada fácil, vocês passaram por um vestibular super difícil e concorrido que exigiu muito de vocês. Por estarem aqui, já são muito bons. Porém, vocês precisam ter paciência: nem tudo vem já de cara, motivação: ache áreas da computação que você se interesse muito, e muita dedicação: para conseguir passar nas matérias, você precisará estudar muito. Esse primeiro semestre talvez não seja o ideal, pois muitas dessas matérias não são tão atraentes, mas tenham calma que vocês irão sim achar áreas e lugares na computação que irão amar. Se precisarem de ajuda em qualquer matéria ou em qualquer algo relacionado à faculdade, o autor desse repositório pode lhe ajudar com o maior prazer do mundo. Curtam a faculdade que ela passa voando, alunos de Ciência da Computação! 🚀​
