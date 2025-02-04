@@ -125,11 +125,25 @@ Para alguns, a matéria será extremamente fácil. Para outros, um pesadelo. A d
 
 Outros lugares com conteúdos e exemplos são: o [repositório do professor Daniel](https://github.com/dagoliveira/projetos) e o [repositório do monitor Gabriel](https://github.com/gboncoffee/ci1210). No repositório do Gabriel inclusive existe o trabalho que ele entregou na matéria, que pode ser útil para entender como fazer certas coisas.
 
-### Materiais de ajuda que estarão na pasta 📁CI1210📁​:
+### Materiais de ajuda que estarão na pasta 📁CM303📁​:
 
 - ***Provas antigas***: Há provas antigas de CMOS do professor Daniel Oliveira. Ele não costuma mudar muito as avaliações, para a sorte de vocês.
 - ***Capítulo de CMOS do Hexel***: Um capítulo de livro que o professor Hexel escreveu sobre CMOS.
 - ***Listas de exercícios***: Listas escritas por monitores, tanto de CMOS quanto Assembly. Quando um professor aplica prova de Assembly, os exercícios são no estilo da lista.
+
+## ✏️​​​📔​✏️ Introdução à Geometria Analítica e Álgebra Linear (CM303):
+Orraaaa, esse Departamento de Matemática não para de vir com matérias para os garotos e garotas de programa, não é mesmo? 🥶​
+
+Bem, nosso famoso GAAL chega com tudo e mais um pouco. Essa matéria do DMAT é muito importante em diversas áreas do nosso curso. Para vocês terem uma ideia, o autor que vos fala estava conversando com um dos bolsistas do C3SL (Centro de Computação Científica e Software Livre) no ano de 2024, e ele estava falando que nos projetos dele essa é sem dúvidas a matéria mais importante, pois é usado muito do conteúdo aprendido nela no dia a dia dele.
+
+É uma matéria que as pessoas que têm uma boa base em matemática geralmente se dão bem. Envolve muito os conteúdos já aprendidos no seu Ensino Médio, só que de uma forma um pouco mais aprofundada na maioria das vezes. Exemplo: no seu ensino médio você aprende a somar vetores bidimensionais, nessa matéria você revisa essa parte e aprende a somar vetores TRIdimensionais. Novamente, não vá achando que você não precisa estudar, dependendo do professor que você pegar nessa matéria você terá que ralar muitoooo!
+
+Calourinhos, existem professores nessa universidade queridos pela maioria dos alunos e professores não tão queridos pela maioria kkkkk. Com isso, existem também professores que são considerados DEUSES por muitos alunos, e é o caso do professor que deu aula dessa matéria para a turma do curso de Estatística no semestre passado, turma essa em que tinham muitos alunos de Ciência da Computação. Enfim, o nome da lenda é Saulo Pomponet Oliveira, e o cara é tão fod@ que vocês verão o material que essa fera fez para os alunos dele logo abaixo, espero que gostem!!
+
+### Materiais de ajuda que estarão na pasta 📁CM303📁​:
+- ***Exercícios_P.DR.Saulo:*** Exercícios e resoluções de cada aula do docente Saulo Pomponet Oliveira.
+- ***Guias:*** Simplesmente guia de cada aula do docente Saulo Pomponet Oliveira, com página do livro onde você pode encontrar os conteúdos, vídeos auxiliares E material complementar.
+- ***Livro_Anton_&_Rorres.pdf:*** PDF de um dos livros mais usados nessa matéria.
 
 
 ## 💥​Recado final:💫​
