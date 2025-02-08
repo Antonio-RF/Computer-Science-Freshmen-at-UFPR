@@ -9,12 +9,12 @@ Repositório do Gabriel (fez Programação 1 com o Luís Bona e o Marcos Castilh
 Repositório do João:
 - https://github.com/dioni04/The-Boys-Simulation
 
-Trabalho final do Antonio (fez Programação 1 com o Lucas Ferrari e o Carlos
-Mazieiro em 2024/2):
+Trabalho final do Antonio (fez Programação 1 com o Lucas Ferrari em 2024/2):
 - https://github.com/Rubiks05/The-Boys
 
 Repositório da Eduarda (fez Programação 1 em 2023/2):
 - https://github.com/edsaibert/prog1-ufpr
 
-Repositório do Eduardo (fez Programação 1 em 2024/2):
+Repositório do Eduardo (fez Programação 1 com Carlos Maziero em 2024/2):
 - https://github.com/Eduardo-Kaluf/Prog1-CI1001
+
