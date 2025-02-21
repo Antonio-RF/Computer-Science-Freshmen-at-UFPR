@@ -112,6 +112,45 @@ A dificuldade da matéria diversas vezes depende também do professor do Departa
 
 # Matérias do Segundo Período
 
+## Escolha de matérias:
+Bem, vocês não acharam que a moleza de não escolher os professores iria continuar igual no primeiro semestre né, calourada? kkkkkkkk
+
+A partir desse semestre vocês não são mais crianças computeiras, já são adultos computeiros que podem escolher as suas próprias matérias e professores, segundo uma hierarquia.
+
+***Hierarquia da escolha:*** A fim de ficar "justo", a UFPR fez uma hierarquia que é baseada em diversos principios que eu vou colocar logo aqui embaixo. Ela serve para classificar sua posição
+na escolha das matérias, o que veremos daqui a pouco como funciona. Olha só a ordem de prioridades:
+
+![](Images/prioridades.png)
+
+Com a possibilidade de você poder pegar matérias com outros cursos que não sejam BCC (geralmente as matérias do DMAT que temos em comum com outros cursos, como as engenharias), essa ordem de prioridades
+foi organizada para que seja "justo" para todos essa escolha das matérias, com a principal prioridade sendo o curso (então se aquela matéria específica daquele professor específico é destinada a Engenharia
+Ambiental no semestre, os alunos de Engenharia Ambiental terão mais prioridade do que os alunos dos outros cursos nessa escolha de matéria).
+
+Agora sem mais enrolação vamos à página de escolha das matérias:
+![](Images/materias.jpeg)
+
+Eu dividi em 4 sessões para explicar para vocês:
+
+***1:*** Essa sessão é destinada às matérias recomendadas, então ai aparece geralmente as matérias que você ainda não completou e são do período em que você está atualmente, sendo que todas elas são do seu curso (então
+como já visto antes, você tem prioridade nessas matérias por serem destinadas ao seu curso).
+
+***2:*** Nessa sessão, há matérias que são do seu período (isso é, matérias que você ainda não completou e geralmente são do período atual em que você se encontra), mas não necessariamente são destinadas ao seu curso,
+como podem ver na imagem acima que a primeira sugestão é de pegar Algoritmos e Estrutura de Dados 3 com a turma do curso de IBM. Aqui, já chega a ser mais difícil de pegar turma, mas sempre é possível, dependendo da sua
+média (IRA) e se você precisa muito pegar aquela matéria, isso é, se já se encontra atrasado nela kkkkk.
+
+***3:*** Depois de escolher uma matéria na sessão 1 ou na sessão 2, elas serão encaminhadas para a sessão 3, em que o sistema irá ver se não há nenhuma outra matéria que você já tenha escolhido nesse mesmo horário e dia
+e se você não bateu o limite de matérias que você pode ter em 1 só dia. Essa sessão serve basicamente como se fosse uma "confirmação" que se não há nenhum atrito de horários nem limites de horários, pode
+seguir em frente computeiro.
+
+***4:*** Essa sessão é sem dúvidas a mais olhada, esperada e xingada durante esse período de escolhas. Essa sessão 4 nos mostra em que colocação estamos, IGUAL NO SISU KKKK, só que a diferença é que não é atualizado a cada um dia,
+e sim a cada poucos segundos. Ela nos mostrará em que vaga estamos, sendo que fica verde se você está dentro das vagas e está tranquilo (como é o caso da segunda matéria da imagem acima), fica amarelo se você está perto
+de sair das vagas (como é o caso da primeira matéria da imagem acima, a qual eu estou tentando pegar com o curso de psicologia) e fica vermelho se você está fora das vagas (o que ainda não aconteceu para mim
+nessa escolha de matérias desse semestre até agora, graças a Deus kkkkk). 
+
+E é assim que vocês conseguem escolher as matérias com os melhores professores ou não conseguem escolher e caem com os piores professores kkkkkk. Geralmente, no segundo semestre a única diferença de vocês, calouros de BCC, são as suas médias (IRA), pois não há muita diferença no quesito das prioridades anteriormente mencionadas entre vocês e será uma competição de calouro contra calouro para pegar os melhores professores. Porém, a partir do terceiro período o negócio já começa a mudar, a ordem de prioridades para pegar as matérias começa a ser mais rígida e vira uma guerra para escolher certas matérias com certos professores kkkkkk.
+Enfim, é assim que nós escolhemos as matérias na Universidade Federal do Paraná.
+
+
 ## ✏️​📘​✏️ Projetos Digitais e Microprocessadores (CI1210):
 Agora não existe mais meio termo: ou você gosta ou não gosta das matérias de hardware.
 
