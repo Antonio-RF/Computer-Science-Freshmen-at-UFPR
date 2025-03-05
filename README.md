@@ -19,6 +19,13 @@ Essa é a grade curricular do nosso curso. Nesse projeto, nós focaremos apenas 
 
 ![](Images/grade-bcc.png)
 
+## 🐧 Baixando Linux Ubuntu 🐧:
+Calourinhos, durante a faculdade vocês precisarão usar um sistema operacional chamado Linux. A coordenação do nosso curso utiliza esse Sistema Operacional para gerenciar todo o curso (trabalhos, questões administrativas e etc). É de vital importância vocês terem esse Sistema Operacional no seu próprio computador (claro, que tiver um. Quem não tiver, não se preocupe, têm computadores nos laboratórios do DINF). 
+
+Para a instalação desse sistema operacional, eu recomendo o vídeo a seguir (eu mesmo já baixei umas 3 vezes em computadores distintos com a ajuda dele): 
+
+[LINK DO VÍDEO](https://www.youtube.com/watch?v=6D6L9Wml1oY&t=457s) 
+
 # Matérias do Primeiro Período (e Cálculo 1)
 
 ## ✏️​📕​✏️Algoritmos e ​Estruturas de Dados 1 (CI1055):
