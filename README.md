@@ -37,7 +37,7 @@ A avaliação dessa matéria é dada através de 3 provas: P1, P2 e P3. Cada uma
 no próximo semestre, na matéria de Programação 1.
 
 ***Mas por que Pascal ?*** Os professores dizem que é uma linguagem muito didática para vocês aprenderem a programar do zero (novamente, mesmo os calourinhos que já sabem). Ps: Não é uma linguagem tão
-fácil como Python(que é ministrada inclusive no primeiro semestre da concorrência particular rs😶‍🌫️​🤫​🫢​) e nem tão difícil quanto C (que vocês terão a partir do segundo semestre, se passarem em ALG1!).
+fácil como Python e nem tão difícil quanto C (que vocês terão a partir do segundo semestre, se passarem em ALG1!).
 
 ### Materiais de ajuda que estarão na pasta 📁​CI1055📁​:
 - ***livro_alg1.pdf:*** Livro de alguns dos professores que provavelmente darão essa matéria, o qual é usado por todos os professores da matéria como bibliografia.
@@ -81,7 +81,7 @@ que tem seu charme para alguns, e para outros "alguns" não kkkkk.
 ## ✏️​📙​✏️Complementos da Matemática (CM304):
 E como primeira matéria que o nosso querido e amado Departamento de Matemática da UFPR tem a oferecer é: Complementos da Matemática.
 
-Infelizmente, essa matéria não foi a mais querida pelos veteranos da turma de matrícula (também chamada de GRR) 2024. O professor da disciplina foi substituído justamente na vez deles, e o antigo docente, muito elogiado pelos corredores do DINF pelos veteranos, deu lugar a um novo professor que estava ministrando a matéria pela primeira vez. No final, menos de 30% da turma foi aprovada diretamente, mas o desfecho acabou sendo positivo, pois a prova final veio fácil e a maioria conseguiu a aprovação 🙏​.
+Infelizmente, essa matéria não foi a mais querida pelos veteranos da turma de matrícula (também chamada de GRR) 2024. O professor da disciplina foi substituído justamente na vez deles, e o antigo docente, muito elogiado pelos corredores do DINF pelos veteranos, deu lugar a um novo professor que estava ministrando a matéria pela primeira vez.
 
 A matéria consiste basicamente de lógica matemática, em que são dadas algumas preposições e você tem que provar a veracidade delas a partir dos artifícios matemáticos que são aprendidos ao longo da matéria. E você que acha que a matéria é fácil apenas porque têm "matemática" no nome e você tem uma boa base e bla bla bla, não é bem assim não. Você realmente tem que estudar para passar nessa matéria, porque apesar de seu nome ser agradável para muitos, a maioria dos conteúdos aprendidos nela não são vistos no seu ensino médio (a não ser que você tenha vindo do EMFPUFPR(Ensino Médio para os Futuros Programadores da Universidade Federal do Paraná)).
 
